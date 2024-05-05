@@ -1,0 +1,62 @@
+<html>
+    <head>
+       <title>Казань</title>
+    </head>
+    <body>
+        <header>
+            <nav>
+            <a><b>Достопримечательности <br> Казани:</b></a>
+            <a><b>Лидер группировки <br> «Кинопленка»</b></a>
+            <a><b>Группировка «Тяп-Ляп»</b></a>
+            </nav>
+        </header>
+        <main>
+            <h1>Казань</h1>
+
+
+            <p class="l"><b>Казань – столица Республики Татарстан и один из самых древних городов России.</b> <br><b>Казань</b> расположилась на левом берегу Волги в том месте, где в нее впадает река Казанка. Эта река течет с северо-востока на запад, пересекая центр города и условно разделяя его на две части. Попасть из одной части Казани в другую очень легко, так как городские районы связывают дамбы, мост и линия метрополитена.</br></p>
+            <div class="galeri">
+            <img src ="https://sun9-24.userapi.com/impg/2Pqrbuu5IN7ud_Z13EnMpDrzofVyzVeIB_4ZuA/q8sGWbsIyfY.jpg?size=600x400&quality=96&sign=acc96035b454541378a826a65d5c4e3f&type=album"/>
+            <img src="https://yobte.ru/uploads/posts/2023-05/gorodskoj-okrug-gorod-kazan-dostoprimechatelnosti-140-foto-78.webp"/>
+            <img src="https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663145333_39-mykaleidoscope-ru-p-kazan-stolitsa-respubliki-tatarstan-oboi-41.jpg"/>
+            <img src="https://sportishka.com/uploads/posts/2022-03/1647147170_51-sportishka-com-p-kazanskii-kreml-nochyu-turizm-krasivo-foto-57.jpg"/>
+            <img src="https://kartin.papik.pro/uploads/posts/2023-07/1688530362_kartin-papik-pro-p-kartinki-kazani-letom-45.jpg"/>
+            <img src="https://sportishka.com/uploads/posts/2022-04/1650703194_59-sportishka-com-p-gorodskoi-okrug-gorod-kazan-krasivo-foto-62.jpg"/>
+        </div>
+
+        <h2><b>Достопримечательности Казани:</h2></b><br>
+        <p class="p"> 1. Казанский Кремль<br>
+            2. Башня Сююмбике<br>
+            3. Благовещенский собор<br>
+            4. Губернаторский (президентский) дворец<br>
+            5. Пушечный двор<br>
+            6. Мечеть Кул-Шариф<br>
+            7. Улица Баумана<br>
+            8. Дворец земледельцев<br>
+            9. Театр кукол «Экият»<br>
+            10. Центр семьи «Казан»<br>
+            11. Комплекс «Туган Авылым»<br>
+            12. Национальный музей Республики Татарстан<br>
+            13. «Парк тысячелетия»<br>
+            14. Музей социалистического быта<br>
+            15. Кремлёвская набережная<br>
+            16. Богородицкий монастырь<br>
+            17. Музей чак-чака<br>
+            18. Голубые озера<br>
+            19. Остров-град Свияжск<br>
+            20. Музей-заповедник Булгар</p>
+                <p class="n"><b>В Ростове-на-Дону задержали лидера казанской организованной преступной группировки (ОПГ) «Кинопленка» Эльфата Сунгатуллина по кличке Ильфатей, который долгие 16 лет скрывался от следствия. В 1980-е «Кинопленка» была одной из многих молодежных банд, которые устраивали жестокие схватки за территорию в Казани — они вошли в историю как «казанский феномен». Именно ему посвящен сериал «Слово пацана: Кровь на асфальте»</b></p>
+
+
+    <iframe width="700px" height="500px" src="https://www.youtube.com/embed/N91KPJJn_3M" title="Самая отбитая молодежная группировка 70-х: история казанской банды «Тяп-Ляп»" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
+    </main>
+        <footer>
+        <nav>
+            <a><b>Достоприме-<br>чательности <br> Казани:</b></a>
+            <a><b>Лидер группировки <br> «Кинопленка»</b></a>
+            <a><b>Группировка «Тяп-Ляп»</b></a>
+            </nav>    
+        </footer>
+    </body>
+</html>
